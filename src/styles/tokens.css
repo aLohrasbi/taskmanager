@@ -1,0 +1,10 @@
+/* src/styles/tokens.css */
+:root {
+  --ink-0: #070912; --ink-1: #0b0e1a; --ink-2: #111527;
+  --line: rgba(148, 163, 216, .14);
+  --text-1: #eef1fb; --text-2: #a7b0d0; --text-3: #6b7494;
+  --iris: #7c83ff; --violet: #a855f7; --cyan: #38e1ff;
+  --mint: #7ef0b2; --amber: #ffb454; --danger: #ff5470;
+  --grad: linear-gradient(135deg, #5b5ff0, #a855f7 48%, #38e1ff);
+  color-scheme: dark;
+}
